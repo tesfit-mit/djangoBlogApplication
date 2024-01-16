@@ -1,0 +1,7 @@
+admin-username=tesfalem
+admin-password==12
+user-username=>instructor_shishay
+user-password=>myAdvisor@1
+ 
+NB-if you want to register as a new user please set him a profile 
+through the admin page otherwise  the profile page wiil be empty
